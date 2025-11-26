@@ -1,3 +1,3 @@
-- 👋 Hi there! My name is Joshua Ahn and I am a machine learning research at Exa.
+- 👋 Hi there! My name is Joshua Ahn and I am a machine learning researcher at Exa.
 - 📫 You can reach out to me at my email address (joshuajahn2001@gmail.com)!
 - 💻 My webpage is https://joshua-ahn.com
